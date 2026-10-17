@@ -3,7 +3,6 @@ import { motion } from "framer-motion";
 import {
   ArrowDown,
   ArrowUpRight,
-  Sparkles,
 } from "lucide-react";
 
 import heroImage from "../assets/Hero_image.jpg";
