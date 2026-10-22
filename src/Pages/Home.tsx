@@ -9,6 +9,7 @@ import Testimonials from "../Components/Testimonials";
 import Social from "../Components/Social";
 import GiftVouchers from "../Components/GiftVouchers";
 import FestiveOfferPopup from "../Components/FestiveOfferPopup";
+import AppDownloadSection from "../Components/AppDownloadSection";
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
       <About />
       <Services />
       <OurWork />
+      <AppDownloadSection />
       <Gallery />
       <Testimonials />
       <Book />

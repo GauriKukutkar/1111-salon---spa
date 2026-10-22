@@ -6,6 +6,7 @@ import ContactUs from "../Components/ContactUs";
 import Book from "../Components/Book";
 import Social from "../Components/Social";
 import GiftVouchers from "../Components/GiftVouchers";
+import AppDownloadSection from "../Components/AppDownloadSection";
 
 const contact = () => {
   return (
@@ -86,6 +87,8 @@ const contact = () => {
           </motion.div>
         </div>
       </section>
+
+      <AppDownloadSection />
 
       {/* CONTACT DETAILS / EXISTING CONTACT COMPONENT */}
       <div id="contact-details">
